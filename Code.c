@@ -4,7 +4,7 @@
 #include<string.h>
 #include<ctype.h>
 #define T 51
-char verifica(char nome[]);
+char verifica(char nome[]);//FAZER
 int main () {
 	char nome[T], aux;
 	int i, Verificador=1, simb=0, n, letra=0, dig=0;
